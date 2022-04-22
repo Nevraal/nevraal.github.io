@@ -1,0 +1,51 @@
+.Qbgimage {
+  background-image: url(https://i.ibb.co/FHx9fGW/starrynight2.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: auto;
+  height: 675px;
+}
+.Qbgtxt {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 675px;
+  margin: 0 -5px;
+}
+.Qtitle,
+h1q {
+  padding-top: 20px;
+  padding-right: 5px;
+  width: 450px;
+  overflow: none;
+  font-family: "Square Peg", cursive;
+  font-size: 30px;
+  line-height: 1;
+  text-align: right;
+  margin-bottom: 5px;
+  color: whitesmoke;
+}
+.Qtxt {
+  background-color: rgba(197, 203, 204, 0.493);
+  padding: 10px;
+  width: 400px;
+  height: 550px;
+  margin-top: 10px;
+  margin-left: 38px;
+  margin-bottom: 10px;
+  overflow: auto;
+  font-family: "Raleway", sans-serif;
+  text-align: justify;
+  font-size: 12px;
+  color: white;
+}
+.LykoiCred {
+  color: rgba(64, 92, 250, 0.322);
+  font-family: "Raleway", sans-serif;
+  font-size: 10px;
+  text-align: center;
+  margin-left: 25px;
+}
